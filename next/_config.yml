@@ -996,10 +996,10 @@ vendors:
   # Internal version: 2.1.5 & 3.5.7
   # See: https://fancyapps.com/fancybox
   # Example:
-  # fancybox1: //cdn.jsdelivr.net/gh/fancyapps/fancybox1@3/dist/jquery.fancybox1.min.js
-  # fancybox1: //cdnjs.cloudflare.com/ajax/libs/fancybox1/3.5.7/jquery.fancybox1.min.js
-  # fancybox_css: //cdn.jsdelivr.net/gh/fancyapps/fancybox1@3/dist/jquery.fancybox1.min.css
-  # fancybox_css: //cdnjs.cloudflare.com/ajax/libs/fancybox1/3.5.7/jquery.fancybox1.min.css
+  # fancybox: //cdn.jsdelivr.net/gh/fancyapps/fancybox@3/dist/jquery.fancybox.min.js
+  # fancybox: //cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js
+  # fancybox_css: //cdn.jsdelivr.net/gh/fancyapps/fancybox@3/dist/jquery.fancybox.min.css
+  # fancybox_css: //cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css
   fancybox:
   fancybox_css:
 
